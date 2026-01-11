@@ -51,7 +51,8 @@ To get started with TailAdmin, ensure you have the following prerequisites insta
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/TailAdmin/free-nextjs-admin-dashboard.git
+git clone https://github.com/RobithYusuf/nextjs-starterkit.git
+cd nextjs-starterkit
 ```
 
 > Windows Users: place the repository near the root of your drive if you face issues while cloning.
